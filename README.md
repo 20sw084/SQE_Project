@@ -27,3 +27,9 @@ This application allows users to:
 
 - **Muhammad Ahsan** - [GitHub: 20SW106](https://github.com/20sw106)  
   Roll No: 20SW106
+
+---
+
+## Instructor
+
+- **Dr. Naeem Mahoto** - [Associate Professor](https://sw.muet.edu.pk/facultydetail.php?id=1)
