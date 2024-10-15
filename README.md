@@ -14,6 +14,6 @@ This application allows users to:
 
 ## Developers
 ------------
-Junaid Aslam ([https://github.com/20sw084/]) - 20SW084
+Junaid Aslam (20SW084 [https://github.com/20sw084/]) - 
 Agha Durrez ([https://github.com/20sw075/]) - 20SW075
 Muhammad Ahsan ([https://github.com/20sw106/]) - 20SW106
