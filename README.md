@@ -1,16 +1,19 @@
-# untitled
+# SQE Project
+================
 
-A new Flutter project.
+A Medication Reminder Cross-Platform Application
+Built with Flutter and Firebase as backend.
 
-## Getting Started
+## Overview
+-----------
+This application allows users to:
+1. Log their ongoing medications
+2. Create reminders based on specific times
+3. Receive reminders at the set times to take medication
+4. Mark medications as taken
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Developers
+------------
+Junaid Aslam ([https://github.com/20sw084/]) - 20SW084
+Agha Durrez ([https://github.com/20sw075/]) - 20SW075
+Muhammad Ahsan ([https://github.com/20sw106/]) - 20SW106
